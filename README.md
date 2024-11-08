@@ -28,3 +28,9 @@ regsvr32 "C:\Path\To\zkemkeeper.dll"
 string deviceIp = "192.168.15.101"; // IP address of the device
 int devicePort = 4370; // Port (default 4370)
 ```
+
+
+# Additional Resources
+
+- [ZKTeco SDK](https://www.zkteco.com/en/SDK)
+- [C# ZKTeco Biometric Device Getting Started](https://www.codeproject.com/articles/1104538/csharp-zkteco-biometric-device-getting-started)
